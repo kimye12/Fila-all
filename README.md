@@ -4,6 +4,8 @@
 
 react를 통해 useState,useEffect등으로 구성했고 useReducer,createContext를 통해 Cart기능도 구현했습니다
 
-또 Route기능을통해 간단한 다중페이지 구성을 만들었습니다
+Route기능을통해 간단한 다중페이지 구성을 만들었습니다
+
+재미삼아 slider기능은 swiper없이 직접 구현해보았습니다
 
 감사합니다

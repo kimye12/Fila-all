@@ -1,12 +1,9 @@
-# React + Vite
+Fila사이트 입니다
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+디자인적인부분은 원본사이트에서 50% + 개인적으로 디자인 50%정도로 구성되어있습니다
 
-Currently, two official plugins are available:
+react를 통해 useState,useEffect등으로 구성했고 useReducer,createContext를 통해 Cart기능도 구현했습니다
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+또 Route기능을통해 간단한 다중페이지 구성을 만들었습니다
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+감사합니다
